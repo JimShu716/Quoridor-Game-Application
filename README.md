@@ -1,7 +1,7 @@
-# Ecse223-project--group-11
-Quoridor Application
+# Quoridor Game Application
 
-## Main Scope of the Project
+### Technologies used: 
+Java Swing, Umple, Gradle, Cumumber, and JUnit
 
 # Menu 
 - [Deliverable 1](#deliverable-1)
